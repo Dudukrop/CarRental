@@ -1,0 +1,15 @@
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.csproj.AssemblyReference.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.csproj.CoreCompileInputs.cache
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\bin\Debug\Exercicio - CarRental.exe.config
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\bin\Debug\Exercicio - CarRental.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\bin\Debug\Exercicio - CarRental.pdb
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.exe
+C:\Users\eduardo.kropniczki\source\repos\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\bin\Debug\Exercicio - CarRental.exe.config
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\bin\Debug\Exercicio - CarRental.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\bin\Debug\Exercicio - CarRental.pdb
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.csproj.AssemblyReference.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.csproj.SuggestedBindingRedirects.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.csproj.CoreCompileInputs.cache
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.exe
+C:\Programação\GitHubProjects\Repositorio C#\Exercicio - CarRental\Exercicio - CarRental\obj\Debug\Exercicio - CarRental.pdb
